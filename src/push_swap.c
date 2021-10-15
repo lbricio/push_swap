@@ -6,7 +6,7 @@
 /*   By: lbricio- <lbricio-@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/09/30 15:47:45 by lbricio-          #+#    #+#             */
-/*   Updated: 2021/10/14 04:34:52 by lbricio-         ###   ########.fr       */
+/*   Updated: 2021/10/14 17:24:34 by lbricio-         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -58,5 +58,7 @@ int	main(int argc, char **argv)
 		medium_sort(&a, &b, 6);
 	else
 		big_sort(&a, &b, 5, 6);
+	free(a.array);
+	free(b.array);
 	return (0);
 }
