@@ -1,5 +1,7 @@
 ## push_swap
 
+<img width="403" alt="image" src="https://user-images.githubusercontent.com/81334995/179250784-b24718ed-c5d9-4784-b9c3-b97f82d3ac73.png">
+
 ### organizando as ideias:
 
 ###### síntese:
