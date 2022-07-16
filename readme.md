@@ -36,4 +36,4 @@ rra = reverse rotate a, rrb = reverse rotate b, rrr = rra + rrb
 ```
 ###### exemplo de solução:
 <img width="517" alt="image" src="https://user-images.githubusercontent.com/81334995/179335154-2f8bdad9-a762-48d9-9030-692f019452cd.png">
-
+(o desempenho continua satisfatório mesmo com uma grande quantidade de números)
