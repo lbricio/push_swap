@@ -30,6 +30,7 @@ sa = swap a, sb = swap b, ss = sa + sb
 pa = push a, pb = push b
 ```
 ###### movimentos rotate (envia o elemento do topo de uma stack para o fim dela)
+```
 ra = rotate a, rb = rotate b, rr = ra + rb
 rra = reverse rotate a, rrb = reverse rotate b, rrr = rra + rrb
 ```
