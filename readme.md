@@ -7,7 +7,7 @@
 ###### síntese:
 - o programa recebev uma pilha de números inteiros aleatórios que deve ser organizada em ordem crescente.
 - recebemos a pilha A com esses números aleatórios e temos também a disposíção uma pilha vazia B.
-- devemos usar os 11 movimentos descritos em **tipos de movimento** na sequência mais curta possível.
+- devemos usar os 11 movimentos descritos em **tipos de movimento** na sequência mais precisa possível.
 
 ###### regras para a pilha recebida:
 - os elementos devem ser números inteiros, portanto podem ser positivos ou negativos.
@@ -25,3 +25,7 @@ pa = push a, pb = push b
 ra = rotate a, rb = rotate b, rr = ra + rb
 rra = reverse rotate a, rrb = reverse rotate b, rrr = rra + rrb
 ```
+###### Solução:
+O programa deve retornar os movimentos usados para organizar a pilha em ordem crescente separados por uma quebra de linha.
+
+
