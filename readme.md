@@ -5,14 +5,14 @@
 ### organizando as ideias:
 
 ###### síntese:
-- o programa recebe uma pilha de números inteiros aleatórios que deve ser organizada em ordem crescente.
-- recebemos a pilha A com os números aleatórios e temos também a disposíção uma pilha vazia B.
+- o programa recebev uma pilha de números inteiros aleatórios que deve ser organizada em ordem crescente.
+- recebemos a pilha A com esses números aleatórios e temos também a disposíção uma pilha vazia B.
 - devemos usar os 11 movimentos descritos em **tipos de movimento** na sequência mais curta possível.
 
 ###### regras para a pilha recebida:
 - os elementos devem ser números inteiros, portanto podem ser positivos ou negativos.
-- a pilha não pode possuir números repetidos.
-- o número deve estar dentro do intervalo de um **int** na linguagem C (-2,147,483,648 ~ 2,147,483,647).
+- a pilha recebida não pode possuir números repetidos.
+- o número deve estar dentro do intervalo padrão de um **int** (-2,147,483,648 ~ 2,147,483,647).
 
 ###### tipos de movimento:
 - **swap** -> inverte os dois elementos do topo de uma fila (sa sb ss)*.
