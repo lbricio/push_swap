@@ -20,9 +20,16 @@
 - **push** -> coloca o elemento do topo de uma fila no topo da outra  (pa pb).
 - **rotate** -> desloca todos os elementos de uma fila para cima, com o primeiro se tornando o último (ra rb rr).
 - **reverse rotate** -> desloca todos os elementos de uma fila para baixo, com o último se tornando o primeiro (rra rrb rrr).
+
+###### movimentos swap (troca a posição dos dois elementos do topo da stack)
 ```
 sa = swap a, sb = swap b, ss = sa + sb
+```
+###### movimentos push (manda um elemento do topo de uma stack para o topo da outra)
+```
 pa = push a, pb = push b
+```
+###### movimentos rotate (envia o elemento do topo de uma stack para o fim dela)
 ra = rotate a, rb = rotate b, rr = ra + rb
 rra = reverse rotate a, rrb = reverse rotate b, rrr = rra + rrb
 ```
