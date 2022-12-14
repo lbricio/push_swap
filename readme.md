@@ -5,7 +5,7 @@
 ### organizando as ideias:
 
 ###### síntese:
-- o programa recebev uma pilha de números inteiros aleatórios que deve ser organizada em ordem crescente.
+- o programa recebe uma pilha de números inteiros aleatórios que deve ser organizada em ordem crescente.
 - recebemos a pilha A com esses números aleatórios e temos também a disposíção uma pilha vazia B.
 - devemos usar os 11 movimentos descritos em **tipos de movimento** na sequência mais precisa possível.
 
